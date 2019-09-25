@@ -1,0 +1,4 @@
+[
+{"addr": "78.62.239.134:443", "authtoken": "a1", "cert": "-----CERTIFICATE-----\n"},
+{"addr": "178.62.239.34:80", "authtoken": "a2", "cert": "-----CERTIFICATE-----\n"}
+]
